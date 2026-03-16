@@ -1,45 +1,62 @@
-<!-- HERO BANNER -->
+<!-- ================= HERO AI CYBERPUNK BANNER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dharmesh%20Gurram&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Mechanical%20Engineer%20|%20Problem%20Solver&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00c6ff,100:0072ff&height=280&section=header&text=Dharmesh%20Gurram&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Mechanical%20Engineer%20%7C%20Problem%20Solver&descAlignY=70"/>
 </p>
 
-
-<!-- TYPING ANIMATION -->
+<!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Mechanical+Engineer;Building+Smart+Engineering+Systems"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Mechanical+Engineering+Problem+Solver;Building+Smart+Engineering+Systems;Creating+AI+Automation+Tools"/>
 </p>
-
 
 ---
 
 # 🧠 About Me
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" height="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 Mechanical Engineer (GATE Qualified)  
-💼 Subject Matter Expert with **4+ years experience**  
-🧠 AI & Machine Learning Developer  
-⚙ Passionate about **engineering problem solving**  
-📚 Creator of **TechSparkPro**
+I am a **Mechanical Engineer and AI Developer** passionate about combining engineering fundamentals with modern artificial intelligence technologies.
 
-🚀 Currently working on:
+With several years of experience as a **Subject Matter Expert in Engineering**, I specialize in solving complex engineering problems, developing intelligent automation tools, and building AI systems that can support technical analysis and decision making.
+
+My goal is to create **AI-powered engineering platforms** that can simplify complex calculations, automate workflows, and help engineers work more efficiently.
+
+### Core Expertise
+
+• Mechanical Engineering Analysis  
+• Artificial Intelligence & Machine Learning  
+• Engineering Problem Solving  
+• Technical Education  
+• Intelligent Automation Systems  
+
+### Current Focus
 
 • AI Multi-Agent Systems  
-• Machine Learning Projects  
-• Engineering Automation Tools  
-• AI Powered Engineering Solutions
+• Machine Learning Applications  
+• Engineering Simulation Tools  
+• AI Automation Platforms  
+• Open Source AI Projects  
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,js,html,css,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,js,html,css,git,linux,vscode,docker&perline=6"/>
+
+</p>
+
+---
+
+# 🔷 Advanced Tech Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dgurram207-dotcom&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dgurram207-dotcom&theme=tokyonight"/>
 
 </p>
 
@@ -51,13 +68,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgurram207-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgurram207-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh5011-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
 
@@ -67,11 +84,11 @@
 
 ---
 
-# 📈 3D Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmesh5011-coder&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgurram207-dotcom&theme=tokyonight"/>
 
 </p>
 
@@ -91,10 +108,10 @@
 
 | Project | Description |
 |------|-------------|
-| 🤖 AI Multi-Agent System | Intelligent automation agents |
+| 🤖 AI Multi-Agent System | Intelligent agents collaborating automatically |
 | 📊 Engineering Solver | Tool for solving engineering equations |
-| 🧠 ML Prediction Model | Machine learning prediction system |
-| 🌐 AI Portfolio | Interactive AI developer portfolio |
+| 🧠 ML Prediction Model | Predictive analytics using machine learning |
+| 🌐 AI Developer Portfolio | Interactive developer portfolio website |
 
 ---
 
@@ -122,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dgurram207-dotcom&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dgurram207-dotcom&label=Profile%20Views&color=00FFFF&style=flat"/>
 
 </p>
 
@@ -130,6 +147,6 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=140&section=footer"/>
 
 </p>
