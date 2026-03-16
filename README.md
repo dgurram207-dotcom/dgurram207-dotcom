@@ -1,32 +1,135 @@
-<h1 align="center">Hi 👋, I'm Dharmesh Gurram</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python • Machine Learning • Data Science</h3>
+<!-- HERO BANNER -->
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🔭 I’m currently working **GATE Test Series Web App**
-
-- 🌱 I’m currently learning **Python, Machine Learning, Data Science, TensorFlow, Scikit-learn**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Building scalable ML models and deployment**
-
-- 💬 Ask me about **Mechanical Engineering, Problem Solving, Python Basics**
-
-- 📫 How to reach me **dgurram207@gmail.com**
-
-- ⚡ Fun fact **From solving mechanical equations to training ML models — I enjoy both worlds.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/413006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="413006" height="30" width="40" /></a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dharmesh%20Gurram&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Mechanical%20Engineer%20|%20Problem%20Solver&descAlignY=65"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgurram207-dotcom&show_icons=true&locale=en&layout=compact" alt="dgurram207-dotcom" /></p>
+<!-- TYPING ANIMATION -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgurram207-dotcom&show_icons=true&locale=en" alt="dgurram207-dotcom" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgurram207-dotcom&" alt="dgurram207-dotcom" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Mechanical+Engineer;Building+Smart+Engineering+Systems"/>
+
+</p>
+
+
+---
+
+# 🧠 About Me
+
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Mechanical Engineer (GATE Qualified)  
+💼 Subject Matter Expert with **4+ years experience**  
+🧠 AI & Machine Learning Developer  
+⚙ Passionate about **engineering problem solving**  
+📚 Creator of **TechSparkPro**
+
+🚀 Currently working on:
+
+• AI Multi-Agent Systems  
+• Machine Learning Projects  
+• Engineering Automation Tools  
+• AI Powered Engineering Solutions
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,js,html,css,git,linux,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgurram207-dotcom&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgurram207-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dgurram207-dotcom&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmesh5011-coder&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dgurram207-dotcom/dgurram207-dotcom/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|------|-------------|
+| 🤖 AI Multi-Agent System | Intelligent automation agents |
+| 📊 Engineering Solver | Tool for solving engineering equations |
+| 🧠 ML Prediction Model | Machine learning prediction system |
+| 🌐 AI Portfolio | Interactive AI developer portfolio |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dgurram207-dotcom">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://youtube.com">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dgurram207-dotcom&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
