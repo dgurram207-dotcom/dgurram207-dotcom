@@ -14,7 +14,7 @@
 
 # 🧠 About Me
 
-<img align="right" height="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a **Mechanical Engineer and AI Developer** passionate about combining engineering fundamentals with modern artificial intelligence technologies.
 
