@@ -60,8 +60,8 @@ I am actively looking for opportunities to work as a **Machine Learning Intern**
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourname  
+- GitHub: https://github.com/dgurram207-dotcom  
+- LinkedIn: https://www.linkedin.com/in/dharmesh-gurram-b1369a353/  
 
 ---
 
