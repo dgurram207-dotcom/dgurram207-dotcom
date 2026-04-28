@@ -47,8 +47,6 @@ I am actively looking for opportunities to work as a **Machine Learning Intern**
 - Classification model for loan approval  
 - Feature engineering and model comparison  
 
-### 🔹 (Add your 3rd project here)
-- Describe briefly in 2–3 lines  
 
 ---
 
